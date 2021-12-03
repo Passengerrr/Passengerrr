@@ -55,7 +55,7 @@
                                                                                     
 
 
-[![Discord Profilim](https://lanyard-profile-readme.vercel.app/api/798257622033367070)](https://discord.com/users/798257622033367070)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/798257622033367070)](https://discord.com/users/798257622033367070)
 
 <br>
   

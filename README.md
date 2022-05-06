@@ -12,11 +12,6 @@
 
 <br>
 
-<h3 align="left">Discord Hesabım </h3>
-<p align="left">
-<img src ="https://lanyard-profile-readme.vercel.app/api/798257622033367070" width="%100" height"150px" />
-     </p>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
